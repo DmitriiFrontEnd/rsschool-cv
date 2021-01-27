@@ -40,3 +40,10 @@ btn.addEventListener('click', () => {
 
 >**College** studying *Hotel and Restaurant business*\
 RKEB - Rivne, Ukraine (2016-2020)
+
+##  Languages
+
+>**English**: B2\
+**Ukrainian**: native\
+**Russian**: native\
+**Polish**: A2
